@@ -73,6 +73,7 @@ Interested in AI, geospatial data, and environmental data applications.
    <img src="https://i.pinimg.com/1200x/5a/cd/62/5acd62345855be2562c2bb6e32cac93e.jpg" width="100%" style="object-fit:cover; flex:1;" />
    <img src="https://i.pinimg.com/736x/ae/75/74/ae7574d6988c55bdc1fa33eb840f2734.jpg" width="100%" style="object-fit:cover; flex:1;" />
    <img src="https://i.pinimg.com/originals/41/48/03/414803605983332e92e9a9d937707bff.gif" width="100%" style="object-fit:cover; flex:1;" />
+  <img src="https://i.pinimg.com/1200x/c2/38/5f/c2385f451fc41590977e576b70ad0a95.jpg" width="100%" style="object-fit:cover; flex:1;" />
 </td>
 
 </tr>
