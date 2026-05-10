@@ -62,7 +62,7 @@ Interested in AI, geospatial data, and environmental data applications.
 ## Find me here <img src="https://i.pinimg.com/originals/a4/a6/b0/a4a6b0a531328e5d9c984a793fa1ac04.gif" width="25"/> 
 
 <p align="left">
-  <a href="www.linkedin.com/in/emilia-pawłowska">
+  <a href="https://www.linkedin.com/in/emilia-pawłowska">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
 </p>
